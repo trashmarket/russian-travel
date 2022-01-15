@@ -1,0 +1,5 @@
+.page {
+  background-color: var(--background-page-color);
+  color: var(--font-color-global);
+  font-family: 'inter', Arial, sans-serif;
+}
