@@ -1,5 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(fonts.css);
+@import url(../blocks/center-wrapper/center-wrapper.css);
+@import url(../blocks/list-style-none/list-style-none.css);
 @import url(../global/vars.css);
 @import url(../blocks/center-flex-column/center-flex-column.css);
 @import url(../blocks/link/link.css);
@@ -11,3 +13,7 @@
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__sub-title/lead__sub-title.css);
 @import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__caption/lead__caption.css);
+@import url(../blocks/intro/__wrapper/intro__wrapper.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);

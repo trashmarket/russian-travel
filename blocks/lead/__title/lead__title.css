@@ -6,3 +6,22 @@
   line-height: 44px;
   font-weight: 900;
 }
+
+@media (min-width: 768px) {
+  .lead__title {
+    font-size: 96px;
+    line-height: 100px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lead__title {
+    width: 70%;
+  }
+}
+
+@media (min-width: 1280px) {
+  .lead__title {
+    width: 56%;
+  }
+}
