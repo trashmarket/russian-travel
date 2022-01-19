@@ -2,3 +2,21 @@
   width: 90%;
   margin: 0 auto;
 }
+
+@media screen and (min-width: 768px) {
+  .center-wrapper {
+    width: 94%;
+  }
+}
+
+@media screen and (min-width: 928px) {
+  .center-wrapper {
+    width: 91%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .center-wrapper {
+    width: 77%;
+  }
+}

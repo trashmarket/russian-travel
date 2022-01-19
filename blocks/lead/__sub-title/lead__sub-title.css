@@ -5,7 +5,7 @@
   line-height: 20px;
 }
 
-@media (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .lead__sub-title {
     margin: 32px auto 56px;
     font-size: 30px;
@@ -14,13 +14,13 @@
   }
 }
 
-@media (min-width: 1024px) {
+@media screen and (min-width: 1024px) {
   .lead__sub-title {
     width: 62%;
   }
 }
 
-@media (min-width: 1280px) {
+@media screen and (min-width: 1280px) {
   .lead__sub-title {
     width: 50%;
     margin: 40px auto 64px;
