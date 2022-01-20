@@ -1,0 +1,11 @@
+.places__website-wrapper {
+  width: 90%;
+  margin: 0 auto;
+}
+
+@media screen and (min-width:768px) {
+  .places__website-wrapper {
+    align-self: end;
+    width: 100%;
+  }
+}

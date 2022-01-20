@@ -1,0 +1,18 @@
+@media screen and (min-width: 768px) {
+  .places__list {
+    width: 94%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .places__list {
+    width: 91%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .places__list {
+    width: 77%;
+  }
+}

@@ -1,0 +1,15 @@
+.places__link {
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
+  margin-bottom: 32px;
+  border-bottom: 1px solid #fff;
+}
+
+@media screen and (min-width: 768px) {
+  .places__link {
+    margin-bottom: 30px;
+  }
+}

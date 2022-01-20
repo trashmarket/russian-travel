@@ -1,6 +1,6 @@
 .photo-grid__list {
   width: 90%;
-  margin: 64px auto 0;
+  margin: 64px auto 64px;
 }
 
 @media screen and (min-width: 768px) {
@@ -10,7 +10,7 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(6, 264px);
     gap: 16px;
-    margin: 88px auto 0;
+    margin: 88px auto 88px;
   }
 }
 
@@ -19,7 +19,7 @@
     width: 91%;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, 225px);
-    margin: 92px auto 0;
+    margin: 92px auto 92px;
     gap: 14px;
   }
 }
