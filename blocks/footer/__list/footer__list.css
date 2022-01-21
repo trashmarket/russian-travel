@@ -1,0 +1,14 @@
+.footer__list {
+  display: flex;
+  flex-direction: column;
+  font-size: 24px;
+  line-height: 24px;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__list {
+    flex-direction: row;
+    font-size: 16px;
+    line-height: 18px;
+  }
+}

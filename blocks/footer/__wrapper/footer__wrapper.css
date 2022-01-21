@@ -1,0 +1,26 @@
+.footer__wrapper {
+  width: 90%;
+  margin: 64px auto 0;
+  padding-bottom: 24px;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 88px;
+    width: 94%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .footer__wrapper {
+    width: 91%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .footer__wrapper {
+    width: 93%;
+  }
+}

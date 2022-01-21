@@ -1,0 +1,6 @@
+@media screen and (min-width: 1280px) {
+  .cover_conteiner_center {
+    width: 92%;
+    margin: 0 auto;
+  }
+}

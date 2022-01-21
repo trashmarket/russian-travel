@@ -1,0 +1,23 @@
+.cover {
+  background-image: url(../../images/cover-trains.jpg);
+  min-height: 200px;
+  background-size: cover;
+}
+
+@media screen and (min-width: 768px) {
+  .cover {
+    min-height: 480px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .cover {
+    min-height: 640px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .cover {
+    min-height: 740px;
+  }
+}

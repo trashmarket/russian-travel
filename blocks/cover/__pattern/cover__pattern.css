@@ -1,0 +1,14 @@
+.cover__pattern {
+  width: 100%;
+  min-height: inherit;
+  text-align: center;
+  background-color: rgba(42, 44, 47, 0.3);
+  transition: background-color .5s;
+  cursor: pointer;
+  text-decoration: none;
+  color: #fff;
+}
+
+.cover__pattern:hover {
+  background-color: rgba(42, 44, 47, 0.8);;
+}
