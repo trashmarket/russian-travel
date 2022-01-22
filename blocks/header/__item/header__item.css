@@ -1,0 +1,7 @@
+.header__item {
+  margin-bottom: 5px;
+}
+
+.header__item:first-child {
+  margin-right: 18px;
+}

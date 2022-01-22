@@ -1,5 +1,6 @@
 .page {
-  background-color: var(--background-page-color);
-  color: var(--font-color-global);
+  background-color: #2A2C2F;
+  color: #fff;
   font-family: 'inter', Arial, sans-serif;
+  max-width: 2300px;
 }
