@@ -1,11 +1,11 @@
-.footer_wrapper {
+.footer {
   width: 90%;
   margin: 64px auto 0;
   padding-bottom: 24px;
 }
 
 @media screen and (min-width: 768px) {
-  .footer_wrapper {
+  .footer {
     display: flex;
     justify-content: space-between;
     margin-top: 88px;
@@ -14,13 +14,13 @@
 }
 
 @media screen and (min-width: 1024px) {
-  .footer_wrapper {
+  .footer {
     width: 91%;
   }
 }
 
 @media screen and (min-width: 1280px) {
-  .footer_wrapper {
+  .footer {
     width: 93%;
   }
 }
